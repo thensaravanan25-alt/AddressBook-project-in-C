@@ -1,0 +1,21 @@
+#20#
+ARUN,8248651147,amma123@gmail.com
+Alice Smith,0987654321,alice@example.com
+Arjun,6665554444,eve@example.com
+Bob Johnson,1112223333,bob@company.com
+Carol White,4445556666,carol@company.com
+David Brown,7778889999,david@example.com
+Frank Miller,3334445555,frank@example.com
+Grace Wilson,2223334444,grace@example.com
+Hannah Clark,5556667777,hannah@example.com
+Ian Lewis,8889990000,ian@example.com
+John Doe,1234567890,john@example.com
+amar,9788512345,amar@gmail.com
+deepa,9095075011,thara@gmail.com
+jeevan nath,7890123123,jeevan@123.com
+padma,9788593278,diyanesh@gmail.com
+pavithra,3456789012,pavi@gmail.com
+preethi,8220800221,venkat@123.com
+sharmitha,9944573833,sharmi@gmail.com
+suba,0099887766,qwer12@gmail.com 
+thenuu,6789012345,saravana@gmail.com
